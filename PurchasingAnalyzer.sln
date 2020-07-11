@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PurchasingAnalyzer.Core", "PurchasingAnalyzer.Core\PurchasingAnalyzer.Core.csproj", "{36623F11-7174-4E2D-A2E9-2EBD25038762}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PurchasingAnalyzer.Wpf", "PurchasingAnalyzer.Wpf\PurchasingAnalyzer.Wpf.csproj", "{976AEC71-2761-42EB-99FB-CBEB71C32ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{36623F11-7174-4E2D-A2E9-2EBD25038762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36623F11-7174-4E2D-A2E9-2EBD25038762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36623F11-7174-4E2D-A2E9-2EBD25038762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36623F11-7174-4E2D-A2E9-2EBD25038762}.Release|Any CPU.Build.0 = Release|Any CPU
+		{976AEC71-2761-42EB-99FB-CBEB71C32ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976AEC71-2761-42EB-99FB-CBEB71C32ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976AEC71-2761-42EB-99FB-CBEB71C32ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976AEC71-2761-42EB-99FB-CBEB71C32ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {10E5131E-21D5-4809-84DC-D2AA07667199}
+	EndGlobalSection
+EndGlobal
